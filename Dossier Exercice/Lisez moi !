@@ -6,6 +6,11 @@ Hello !
 Le fichier des Consignes est caché dans se répertoire.
 Une fois l'avoir trouvé, ouvrez le afin d'avoir les consignes.
 
+Faite la commande, remplacer trinix par le nom de votre branch 
+:
+	
+	git reset --hard origin/trinix 
+
 Bonne Chance,
 
 - Trinix,
