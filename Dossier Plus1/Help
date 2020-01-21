@@ -1,0 +1,21 @@
+cd: changer de repertoire
+cd .. retour au dossier précédent
+ls lire dams 
+
+rm:  pour supprimer les fichiers 
+rm * sup tous les fichiers
+
+rm - r:  supprime les dossiers 
+rm -r * supprime tout
+mv:"   "    "   " modifie le mon des fichiers ou dossiers
+
+su: travailler comme admin
+su ferdinand
+sodo: admin temporaire
+
+git clone 
+git satatus <lien
+git checkout
+git add
+git add *
+
