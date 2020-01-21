@@ -1,0 +1,18 @@
+cd .. permet de rentrer dans son ancien repertoire
+mv changer de fichier ou dossier et le renommer
+ls afficher les fichiers ou les repertoires
+rm * supprimer justeles fichiers
+rm -r * supprime les fichiers et les repertoires qui ont ete creer
+rm supprimer
+rm -r supprime les repertoires
+mv <file> <file> deplacer un fichier ou repertoire et le renommer
+
+git clone <lien> permet de cloner le projet sur sa machine et de travailler dessus
+
+su permet d'aller en root
+su trinix permet de a user trinix de passer en root
+sudo permet de faire une commande en root sans aller en root
+git chechout permt de changer de branche
+git status permet de voir les modifications
+git add permet d valider les modifications
+git add * permet de valider ttes les modifications
