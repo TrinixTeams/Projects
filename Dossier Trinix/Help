@@ -18,4 +18,5 @@ git status
 git add .
 git add *
 
+git reset --hard origin/trinix || remettre le pull a jour
 
