@@ -1,0 +1,50 @@
+################################################################
+
+Hello !
+
+1- Copier ce fichier dans votre 
+Dossier 
+	exemple : Trinix le copie vers Dossier Trinix
+
+*** COPIER LE FICHIER DANS VOTRE DOSSIER AVANT DE CONTINUER LA LECTURE ***	
+
+3- Aller dans votre dossier ou vous avez copié le fichier
+4- Renommer le Fichier en : Trinix-QsFile
+	remplacer Trinix par le nom de votre branche
+	exemple : July-QsFile , si la branche est July
+
+5- Créer un Dossier nommé : P l u g i n s
+	/!\ le dossier s'appelle : P l u g i n s 
+	/!\ et non : Plugins
+
+6- Créer un fichier appelé : Git Basic Command 
+	le fichier aura comme extension : .trinix
+	exemple : Bla bla bla bla.trinix
+
+7- Ouvrez le fichier afin d'écrire à l'intérieur
+8- Recopiez les élements ci-dessous et donner leurs définitions (selon ce que vous avez 
+compris) après les deux points ":"
+
+	exemple : git clone <url>	: clonner un repo afin de travailler dessus en local
+	
+	git clone <url>		:
+	git status			:
+	git branch <name>		:
+	git branch -a			:
+	git checkout <name>		:
+	git add .			:
+	git add *			:
+	git commit -m "Message"		:
+	git push origin <branch name>	:
+
+9- Une fois cela fait, enregistrer les nouvelles modifications du fichier
+10- Vérifier les modifications grace aux commandes de git
+11- Valider les modifications
+12- Sauvegarder
+13- Publier (indices : git push origin <votre branch name>)
+
+Bonne Chance,
+
+- Trinix,
+
+################################################################
