@@ -13,9 +13,10 @@ su: travailler comme admin
 su ferdinand
 sodo: admin temporaire
 
-git clone 
-git satatus <lien
-git checkout
+git clone <LIEN< :télécharge tous les changement sur git
+git satatus : montre les modification sur git
+
+git checkout: changer de branche
 git add
 git add *
 
