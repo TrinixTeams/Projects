@@ -1,0 +1,21 @@
+*
+cd
+cd ..
+ls
+rm
+rm *
+rm -r
+rm -r *
+mv <file1> <file2>
+
+su
+su Trinix
+sudo
+
+git clone <lien>
+git checkout
+git status
+git add .
+git add *
+
+
