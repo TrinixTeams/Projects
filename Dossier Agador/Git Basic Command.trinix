@@ -1,9 +1,9 @@
 git clone <url>		:commande pour copier un projet existant
-git status			:
-git branch <name>		:
-git branch -a			:
-git checkout <name>		:
-git add .			:
-git add *			:
-git commit -m "Message"		:
-git push origin <branch name>	:
+git status			: pour voir s il y a des modifications
+git branch <name>		:pour creer une nouvelle branche
+git branch -a			: voir toutes les branches disponibles
+git checkout <name>		:changer de branche 
+git add .			:ajouter les modifications faites sur un fichier 
+git add *			: pareille que git add .
+git commit -m "Message"		:pour valider les modifications avec un message de confirmation 
+git push origin <branch name>	:pour valider sur github
