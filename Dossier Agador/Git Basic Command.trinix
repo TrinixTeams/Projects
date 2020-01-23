@@ -1,0 +1,9 @@
+git clone <url>		:commande pour copier un projet existant
+git status			:
+git branch <name>		:
+git branch -a			:
+git checkout <name>		:
+git add .			:
+git add *			:
+git commit -m "Message"		:
+git push origin <branch name>	:
